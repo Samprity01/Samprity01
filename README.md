@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samprity01&show_icons=true&locale=en" alt="samprity01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samprity01&" alt="samprity01" /></p>
+![snake gif](https://github.com/Samprity01/Samprity01/blob/output/github-contribution-grid-snake.gif)
